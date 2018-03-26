@@ -1,0 +1,11 @@
+[{
+	"redisName":"statistics",
+	"host":"127.0.0.1",
+	"port":6379,
+	"password":"Fid123456",
+	"timeout":3000,
+	"dbNum":4,
+	"maxActive":100,
+	"maxWait":1000,
+	"maxIdle":60
+}]
